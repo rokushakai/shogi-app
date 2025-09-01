@@ -1,0 +1,5 @@
+python-shogi
+pytest
+ruff
+black
+mypy
